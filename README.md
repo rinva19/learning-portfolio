@@ -14,8 +14,6 @@ This repository tracks my self-paced learning and professional development acros
 | **Data Management Masterclass**                 | Udemy                      | ✅ Completed | August 4, 2023 |
 | **Introduction to AWS**                         | Udemy                      | ✅ Completed | Nov 8, 2024  |
 | **Understanding APIs and RESTful APIs**         | Udemy                      | ✅ Completed | Feb 12, 2025 |
-| **AWS Cloud Practitioner Certification**        | AWS SkillBuilder           | 🕒 In Progress | Target: December 2025 |
-| **Galaxy Bioimage Analysis Pathway**            | Galaxy Training Network    | 🕒 Ongoing   | Started: June 2025 |
 
 ---
 
@@ -28,10 +26,4 @@ Each training area has its own markdown file with notes, reflections, and key ta
 - [galaxy_training.md](galaxy_training.md)
 - [udemy_courses.md](udemy_courses.md)
 
----
 
-## 🌱 Current Focus
-
-- Preparing for AWS Cloud Practitioner certification
-- Exploring Galaxy workflows for bioimage segmentation
-- Reviewing Airtable Enterprise features and automations
